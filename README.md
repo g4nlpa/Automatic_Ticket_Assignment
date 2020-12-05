@@ -27,6 +27,8 @@
 
 9)Excel file was generated
 
+10)Meaningless words removed and Short Description,Description columns dropped as all the info is merged in Combined description column
+
 THE ENTIRE PREPROCESSED DATA IS SAVED AS A PICKLE FILE.IF YOU DONT WANT TO RUN THE PREPROCESSING FROM SCRATCH(TAKES AROUND 4 HOURS)
 LOAD THE preprocesseddata.pkl USING A SIMILAR FORMAT AS BELOW:
 
