@@ -1,5 +1,5 @@
 # Automatic_Ticket_Assignment - Milestone-1
-This branch contains deveriverables related to Milestone-1
+This branch contains deliverables related to Milestone-1 and their associated datasets (input and output)
 
 Milestone 1: Pre-Processing, Data Visualisation and EDA
 1. Exploring the given Data files
