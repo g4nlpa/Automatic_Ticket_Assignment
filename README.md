@@ -11,7 +11,8 @@ Milestone 1: Pre-Processing, Data Visualisation and EDA
 8. Text preprocessing
 9. Creating word vocabulary from the corpus of report text data
 10. Creating tokens as required
-11.  Modelling (Focus on accuracy and generalization) & interim Report Submission
+11. Modelling (Focus on accuracy and generalization)  - DL and ML
+12 Interim Report 
 
 This branch also contains Data Augmentation code required for Data Enrichment
 
