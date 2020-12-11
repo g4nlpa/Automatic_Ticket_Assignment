@@ -17,3 +17,5 @@ Milestone 1: Pre-Processing, Data Visualisation and EDA
 This branch also contains Data Augmentation code required for Data Enrichment
 
 
+Link to the interim report:
+https://docs.google.com/document/d/1V6_wYNtyLDTrzLjaltKfp2Og-t5odx22hmnWPVin8wo/edit#
