@@ -1,4 +1,4 @@
- Description of file are as given below
+ Description of the file3 are as given below
  
  All the models have been built on 3 differents kinds of data
  
