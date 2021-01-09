@@ -23,7 +23,18 @@ cp_dl : Lstm,Bilstm,Gru and BiGru without hyperparameter tuning
 
 cp_dl_hyp : Lstm,Bilstm,Gru and BiGru with hyperparameter tuning
 
-All the models have been built on 3 differents kinds of data
+Bert-Transformers - uses BERT as the non trainable base model plus CNN
+
+GPT2-Transformers2 - uses GPT 2 as the non trainable base model plus CNN
+
+cp-nlp-FeatureEngg* - various notebooks use different Feature Engg techniques on ML & DL models
+
+capstone-nlp-DL-GlOve-BILSTM* - uses BILST with Hyper Param tuning
+
+capstone_nlp_ML_Model_interpretation - Demos ELI5 to interpet an LR model.
+
+
+The models have been built on 3 differents kinds of data
 
 a) Unaugmented data
 
